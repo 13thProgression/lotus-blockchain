@@ -1,5 +1,8 @@
 # lotus-blockchain
 
+![Alt text](https://agem.ae/lotus.png)
+
+
 ## Installing
 
 Install instructions are available in the

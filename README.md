@@ -1,6 +1,6 @@
 # lotus-blockchain
 
-![Alt text](https://agem.ae/lotus.png)
+![Alt text](https://agem.ae/lotus_ascii.png)
 
 
 ## Installing

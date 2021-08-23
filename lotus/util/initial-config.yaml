@@ -313,7 +313,7 @@ full_node:
       host: *self_hostname
       port: 5946
   introducer_peer:
-      host: introducer.agem.ae  # Chia AWS introducer IPv4/IPv6
+      host: introducer.chia.net  # Chia AWS introducer IPv4/IPv6
       port: 5980
   wallet_peer:
     host: *self_hostname
@@ -397,7 +397,7 @@ wallet:
   recent_peer_threshold: 6000
 
   introducer_peer:
-    host: introducer.agem.ae # Chia AWS introducer IPv4/IPv6
+    host: introducer.chia.net # Chia AWS introducer IPv4/IPv6
     port: 5980
 
   ssl:

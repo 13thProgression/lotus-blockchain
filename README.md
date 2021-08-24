@@ -2,6 +2,7 @@
 
 ![Alt text](https://agem.ae/lotus_ascii.png)
 
+Homepage [Here](https://agem.ae) and node to connect to agem.ae:5980 
 
 ## Installing
 
